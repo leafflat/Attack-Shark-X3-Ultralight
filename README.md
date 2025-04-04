@@ -3,7 +3,9 @@
 32g ultra light with the internals or an Attack Shark X3.  
 Side buttons still available. 
 
-![20250404_173411](https://github.com/user-attachments/assets/fe76ca68-e513-4679-9cac-2d7767896bbf)  
-![20250404_173417](https://github.com/user-attachments/assets/34f8f292-aa67-4fb5-9703-b549cfcc3d92)  
-![20250404_173423](https://github.com/user-attachments/assets/575cc2cc-60a3-4ff6-b4d9-590157a5f1c5)  
-![20250404_173438](https://github.com/user-attachments/assets/37bc4bb8-7b23-4168-bd53-d47732000b3a)  
+
+
+![20250404_174410](https://github.com/user-attachments/assets/c7399d13-32bb-446a-af06-d3bd1a559ca9)  
+![20250404_174417](https://github.com/user-attachments/assets/eee53c17-fdad-45a5-a2b0-01535ae9edf1)  
+![20250404_174317](https://github.com/user-attachments/assets/2caa17fd-5d3e-446e-ad8a-d8ff1a4e85f0)  
+![20250404_173315](https://github.com/user-attachments/assets/1ae99bb3-81f5-4961-81c1-e95681880ecf)  
