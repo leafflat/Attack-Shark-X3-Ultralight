@@ -1,8 +1,9 @@
 # Attack-Shark-X3-Ultralight
  
-32g ultra light with the internals or an Attack Shark X3.  
-Side buttons still available. 
-The scroll wheel bracket slots in from the bottom once the PCB has been mounted.  
+32g ultra light with the internals or an Attack Shark X3.   
+Side buttons still available.  
+The scroll wheel bracket slots in from the bottom once the PCB has been mounted.   
+It uses screws that come from the mouse itself. The PCB is held down with the same screws, and the 2 black screws for the side button PCBs are used for the side button.  
 
 
 ![20250404_174410](https://github.com/user-attachments/assets/c7399d13-32bb-446a-af06-d3bd1a559ca9)  
