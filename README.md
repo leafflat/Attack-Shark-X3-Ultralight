@@ -2,7 +2,7 @@
  
 32g ultra light with the internals or an Attack Shark X3.  
 Side buttons still available. 
-
+The scroll wheel bracket slots in from the bottom once the PCB has been mounted.  
 
 
 ![20250404_174410](https://github.com/user-attachments/assets/c7399d13-32bb-446a-af06-d3bd1a559ca9)  
